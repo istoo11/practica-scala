@@ -15,10 +15,14 @@ Samuel Roman Carrasco
 ### Entorno 1
 JupyterLab + Almond Kernel
 
+[Documentacion](parte1/README.md#L1)
+
 ### Entorno 2
 Visual Studio Code + Metals + sbt
+
+[Documentacion](parte1/README.md#L89)
 
 ### Entorno 3
 IntelliJ IDEA Community + sbt
 
-[Documentacion](parte1/README.md)
+[Documentacion](parte1/README.md#L152)
