@@ -14,7 +14,7 @@ Esta parte contiene 15 ejercicios de programación realizadosen Scala utilizando
 
 Ver Notebook de la Parte 2
 
-[Notebook ejercicios](practica-scala/parte2/notebooks)
+[Notebook ejercicios](notebooks)
 
 ## Evidencias
 
