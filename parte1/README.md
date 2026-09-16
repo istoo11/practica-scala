@@ -160,7 +160,7 @@ Puedes descargar la versión oficial de IntelliJ IDEA desde la web oficial de Je
 ## 2. Instalación del Plugin de Scala
 Una vez instalado y abierto IntelliJ IDEA, dirígete al apartado de **Plugins** y busca e instala el plugin oficial de **Scala**.
 
-![plugin intelliJ](../images/instalacion_intelliJ.png) 
+![plugin intelliJ](../images/pling_Scala.png) 
 
 ## 3. Creación y Prueba de un Pequeño Programa
 Para verificar que todo funciona correctamente, crearemos un programa básico en un proyecto configurado con SBT. 
