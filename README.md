@@ -25,3 +25,5 @@ IntelliJ IDEA Community + sbt
 [Documentacion](parte1/README.md#guía-de-instalación-intellij--scala-21221--sbt)
 
 ## Parte 2 - Ejercicios practicos con Scala
+
+Esta parte contiene 15 ejercicios de programación realizadosen Scala utilizando JupyterLab.
