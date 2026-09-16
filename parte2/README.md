@@ -20,4 +20,4 @@ Ver Notebook de la Parte 2
 
 !JupyterLab con Scala
 
-[Capturas ejercicios](images/parte2)
+[Capturas ejercicios](../images/parte2)
