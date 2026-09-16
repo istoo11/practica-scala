@@ -79,7 +79,7 @@ python -m jupyterlab
 
 Esto abrirá automáticamente una pestaña en el navegador web con la interfaz de JupyterLab. De no ser así, copia y pega en tu navegador una de las rutas (URLs) que se muestran en la terminal.
 
-# 6. Pruebas Iniciales
+## 6. Pruebas Iniciales
 
 Por ultimo, para comprobar que el kernel de Scala (Almond) responde correctamente en JupyterLab, realizaremos unas pequeñas pruebas de código:
 
@@ -148,4 +148,5 @@ Por ultimo, para comprobar que el kernel de Scala (Almond) responde correctament
    Por último un `sbt run`.
 
 ![SBT run](../images/sbt_run.png)  
-   
+
+# Guía de Instalación IntelliJ + scala 2.12.21 + sbt
