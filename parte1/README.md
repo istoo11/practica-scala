@@ -84,3 +84,68 @@ Esto abrirá automáticamente una pestaña en el navegador web con la interfaz d
 Por ultimo, para comprobar que el kernel de Scala (Almond) responde correctamente en JupyterLab, realizaremos unas pequeñas pruebas de código:
 
 ![Codigo prueba](../images/prueba_codigo.png)
+
+
+# Guía de Instalación y Configuración de Scala con VS Code
+
+1. **Verificar la versión de Java**
+   Lo primero que haremos es verificar el estado de la versión de Java con los comandos:
+   ```bash
+   java -version
+   ```
+   
+![Java](../images/version_java.png)
+
+   ```bash
+   javac -version
+   ```
+
+![Javac](../images/java_javac.png)
+
+1. **Instalar Visual Studio Code**
+   Ahora instalaremos VS Code desde [su web oficial](https://code.visualstudio.com/). Le daremos a **Download for Windows**. Una vez instalado, ejecutamos el programa.
+
+![VSCode](../images/descarga_vscode.png)
+
+3. **Instalar Metals**
+   En la parte lateral izquierda, en el apartado de extensiones, deberemos buscar la extensión **Scala (Metals)** e instalarla.
+
+![Metals](../images/metals.png)   
+
+5. **Instalar y comprobar sbt**
+   Por último, instalaremos `sbt`. Para ello usaremos el CMD en modo administrador con el comando:
+   ```bash
+   choco install sbt -y
+   ```
+
+![SBT instalacion](../images/instalacion_sbt.png)  
+
+   Finalmente, comprobaremos si hemos instalado `sbt` correctamente con el comando:
+   ```bash
+   sbt --version
+   ```
+
+![SBT version](../images/version_sbt.png)  
+
+5. **Crear un proyecto Scala**
+   Para finalizar, vamos a crear un pequeño proyecto con Scala con el comando:
+   ```bash
+   sbt new scala/scala-seed.g8
+   ```
+   Después nos pedirá el nombre del proyecto y usaremos `scala-vscode` como ejemplo.
+
+![SBT iniciar](../images/creacion_sbt.png)  
+
+   Aqui mostramos la configuracion del archivo `build.sbt`
+
+![configuracion](../images/sbt_configuracion.png)    
+
+7. **Compilar y ejecutar el programa**
+   Para ejecutar el programa haremos un `sbt compile`
+
+![SBT compile](../images/sbt_build.png)  
+
+   Por último un `sbt run`.
+
+![SBT run](../images/sbt_run.png)  
+   
