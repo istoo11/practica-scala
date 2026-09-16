@@ -15,14 +15,14 @@ Samuel Roman Carrasco
 ### Entorno 1
 JupyterLab + Almond Kernel
 
-[Documentacion](parte1/README.md#entorno-1-jupyterlab--almond-kernel)
+[Documentacion](parte1/README.md#guía-de-instalación-y-ejecución-de-jupyter-notebook)
 
 ### Entorno 2
 Visual Studio Code + Metals + sbt
 
-[Documentacion](parte1/README.md#entorno-2-visual-studio-code--metals--sbt)
+[Documentacion](parte1/README.md#guía-de-instalación-y-configuración-de-scala-con-vs-code)
 
 ### Entorno 3
 IntelliJ IDEA Community + sbt
 
-[Documentacion](parte1/README.md#entorno-3-intellij-idea-community--sbt)
+[Documentacion](parte1/README.md#guía-de-instalación-intellij--scala-21221--sbt)
