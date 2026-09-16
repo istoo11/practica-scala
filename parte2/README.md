@@ -12,12 +12,8 @@ Esta parte contiene 15 ejercicios de programación realizadosen Scala utilizando
 
 ## Notebook
 
-Ver Notebook de la Parte 2
-
 [Notebook ejercicios](notebooks)
 
 ## Evidencias
-
-!JupyterLab con Scala
 
 [Capturas ejercicios](../images/parte2)
