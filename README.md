@@ -23,3 +23,5 @@ Visual Studio Code + Metals + sbt
 ### Entorno 3
 IntelliJ IDEA Community + sbt
 [Documentacion](parte1/README.md#guía-de-instalación-intellij--scala-21221--sbt)
+
+## Parte 2 - Ejercicios practicos con Scala
