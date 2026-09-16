@@ -32,6 +32,8 @@ python -m notebook
 
 Una vez ejecutado, se abrirá automáticamente una pestaña en el navegador web con la interfaz de Jupyter. De no ser así, deberemos utilizar una de las dos rutas (URLs) que encontraremos en la terminal.
 
+![Imagen rutas](../images/abrir_jupiter.png)
+
 # Instalación del Kernel de Almond (Scala para Jupyter)
 
 ## 1. Verificación de Java
@@ -40,6 +42,7 @@ Lo primero que debemos hacer es comprobar si contamos con Java instalado ejecuta
 ```bash
 java --version
 ```
+![Version java](../images/version_java.png)
 
 ## 2. Descarga del CLI de Coursier
 Una vez comprobado Java, descargamos Coursier mediante su script de instalación automática:
@@ -47,6 +50,8 @@ Una vez comprobado Java, descargamos Coursier mediante su script de instalación
 ```bash
 curl -Lo coursier https://git.io/coursier-cli
 ```
+
+![Version java](../images/instalacion_cli.png)
 
 ## 3. Configuración del Kernel en Jupyter
 Para configurar el kernel de Scala en Jupyter, necesitamos el instalador de Coursier. 
@@ -70,8 +75,12 @@ Para comprobar que todo funciona correctamente, iniciamos JupyterLab ejecutando:
 python -m jupyterlab
 ```
 
+![JupyterLab abierto](../images/notebook_abierto.png)
+
 Esto abrirá automáticamente una pestaña en el navegador web con la interfaz de JupyterLab. De no ser así, copia y pega en tu navegador una de las rutas (URLs) que se muestran en la terminal.
 
 # 6. Pruebas Iniciales
 
 Por ultimo, para comprobar que el kernel de Scala (Almond) responde correctamente en JupyterLab, realizaremos unas pequeñas pruebas de código:
+
+![Codigo prueba](../images/prueba_codigo.png)
