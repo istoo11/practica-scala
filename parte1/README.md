@@ -14,6 +14,8 @@ Una vez comprobado que Python está instalado, procedemos a instalar el entorno 
 pip install notebook
 ```
 
+![Imagen descarga Jupyter](images/instalacion notebook.png)
+
 > **Nota sobre el límite de rutas en Windows:** Al intentar realizar instalaciones en rutas muy anidadas de la Tienda de Windows (`AppData\Local\Packages\...`), es común superar el límite clásico de Windows de 260 caracteres (*Windows Long Path support*). 
 > 
 > Para evitar este problema, utilizamos la alternativa más simple:
