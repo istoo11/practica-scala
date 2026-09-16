@@ -167,7 +167,7 @@ Para verificar que todo funciona correctamente, crearemos un programa básico en
 
 Estructura archivo `build.sbt`
 
-![build.sbt](../images/intelli_build.png) 
+![build.sbt](../images/Proyecto_Scala_jkd17.png) 
 
 Puedes compilar el proyecto ejecutando el siguiente comando en la terminal:
 ```bash
@@ -186,4 +186,4 @@ sbt run
 ## 4. Estructura del Proyecto
 A continuación se muestra la estructura típica de directorios y archivos para un proyecto de Scala con SBT:
 
-![estructura intelliJ](../images/intelli_run.png) 
+![estructura intelliJ](../images/estructura_intelli.png) 
