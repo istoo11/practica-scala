@@ -150,3 +150,40 @@ Por ultimo, para comprobar que el kernel de Scala (Almond) responde correctament
 ![SBT run](../images/sbt_run.png)  
 
 # Guía de Instalación IntelliJ + scala 2.12.21 + sbt
+
+## 1. Descarga de IntelliJ IDEA
+Puedes descargar la versión oficial de IntelliJ IDEA desde la web oficial de JetBrains a través del siguiente enlace:
+[Descargar IntelliJ IDEA](https://www.jetbrains.com/idea/?source=google&medium=cpc&campaign=EMEA_en_REST_IDEA_Google_Branded&term=intellij&content=693349187757&gad_source=1&gad_campaignid=9736965301&gbraid=0AAAAADloJzhdjZgur5qacmvgbRx82xveN&gclid=CjwKCAjw_KjVBhAHEiwAnC0N9O2RbaqU28gmEvSzM4ZJmx5c2GkyI5WJsuqvdsjhI9mX-UfedNKhaxoCZ34QAvD_BwE)
+
+![web intelliJ](../images/instalacion_intelliJ.png)  
+
+## 2. Instalación del Plugin de Scala
+Una vez instalado y abierto IntelliJ IDEA, dirígete al apartado de **Plugins** y busca e instala el plugin oficial de **Scala**.
+
+![plugin intelliJ](../images/instalacion_intelliJ.png) 
+
+## 3. Creación y Prueba de un Pequeño Programa
+Para verificar que todo funciona correctamente, crearemos un programa básico en un proyecto configurado con SBT. 
+
+Estructura archivo `build.sbt`
+
+![build.sbt](../images/intelli_build.png) 
+
+Puedes compilar el proyecto ejecutando el siguiente comando en la terminal:
+```bash
+sbt compile
+```
+
+![build intelliJ](../images/intelli_build.png) 
+
+Y para ejecutar la aplicación, utiliza:
+```bash
+sbt run
+```
+
+![run intelliJ](../images/intelli_run.png) 
+
+## 4. Estructura del Proyecto
+A continuación se muestra la estructura típica de directorios y archivos para un proyecto de Scala con SBT:
+
+![estructura intelliJ](../images/intelli_run.png) 
