@@ -174,7 +174,7 @@ Puedes compilar el proyecto ejecutando el siguiente comando en la terminal:
 sbt compile
 ```
 
-![build intelliJ](../images/intelli_build.png) 
+![build intelliJ](../images/intelli_compile.png) 
 
 Y para ejecutar la aplicación, utiliza:
 ```bash
@@ -186,4 +186,4 @@ sbt run
 ## 4. Estructura del Proyecto
 A continuación se muestra la estructura típica de directorios y archivos para un proyecto de Scala con SBT:
 
-![estructura intelliJ](../images/estructura_intelli.png) 
+![estructura intelliJ](../images/estructura_intelli.png) ![build intelliJ](../images/intelli_build.png)
