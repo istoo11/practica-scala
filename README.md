@@ -21,4 +21,4 @@ Visual Studio Code + Metals + sbt
 ### Entorno 3
 IntelliJ IDEA Community + sbt
 
-[Ir al documento de instalación](./README.md)
+[Documentacion](parte1/README.md)
