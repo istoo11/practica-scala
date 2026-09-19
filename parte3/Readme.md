@@ -35,16 +35,19 @@ Chen -> 24 -> BUST
 Marta -> 21 -> VALIDA
 Sindhu -> 20 -> VALIDA
 Luis -> 26 -> BUST
+
 --- Resumen de la ronda ---
 Numero total de jugadores: 5
 Manos validas: 3
 Bust: 2
 Mejor puntuacion valida: 21
+
 --- Resumen de la ronda 2 ---
 Numero total de jugadores: 5
 Manos validas: 4
 Bust: 1
 Mejor puntuacion valida: 21
+
 --- Resumen de las partidas ---
 Mejor puntuacion de la ronda 1: 21
 Mejor puntuacion de la ronda 2: 21
