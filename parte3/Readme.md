@@ -14,7 +14,16 @@ Aplicación sencilla de Blackjack en Scala que permite gestionar varios jugadore
 
 ## Estructura
 
-Descripción de los archivos principales.
+```text
+torneo-twenty-one/
+├── build.sbt
+├── project/
+└── src/
+    └── main/
+        └── scala/
+            └── mainWhile.scala
+            └── mainForeach.scala
+```
 
 ## Funciones utilizadas
 
@@ -70,6 +79,7 @@ Aplicación sencilla en Scala que permite gestionar las calificaciones de varios
 
 ## Estructura
 
+```text
 analizador-notas/
 ├── build.sbt
 ├── project/
@@ -77,6 +87,7 @@ analizador-notas/
     └── main/
         └── scala/
             └── Main.scala
+```
 
 ## Funciones utilizadas
 
