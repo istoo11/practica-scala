@@ -30,7 +30,6 @@ Descripción de los archivos principales.
 sbt compile
 sbt run
 
-```text
 Alex -> 18 -> VALIDA
 Chen -> 24 -> BUST
 Marta -> 21 -> VALIDA
